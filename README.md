@@ -9,10 +9,10 @@ In these projects, the User wants to Know the Total salary of the Software Team,
 
 # All steps of running the project
 
-*(1) git clone <ssh_url>* //to clone repository
+**(1) git clone <ssh_url>* //to clone repository
 
-*(2) open repository in vs code editor*
+**(2) open repository in vs code editor*
 
-*(3)go to extension tab and download Extension pack for java extension*
+**(3)go to extension tab and download Extension pack for java extension*
 
-*(4)after adding extension you can see run button on right hand side press it and run*
+**(4)after adding extension you can see run button on right hand side press it and run*
