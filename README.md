@@ -9,7 +9,7 @@ In these projects, the User wants to Know the Total salary of the Software Team,
 
 # All steps of running the project
 
-**(1) git clone <ssh_url>* //to clone repository**
+**(1) git clone <ssh_url>** //to clone repository
 
 **(2) open repository in vs code editor**
 
